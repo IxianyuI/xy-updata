@@ -10,5 +10,13 @@
     "cdk": {
         "v": 0,
         "txt": "33333"
+    },
+    "skateboard-pro": {
+        "v": 0,
+        "txt": "44444"
+    },
+    "surfboard-pro": {
+        "v": 0,
+        "txt": "55555"
     }
 }
